@@ -1,0 +1,13 @@
+*{
+all : unset;
+display: revert;
+font-family: 'Baloo Paaji 2', sans-serif;
+
+}
+
+h1 {
+ color: #435334;
+ display: flex;
+ justify-content: center;
+
+}
